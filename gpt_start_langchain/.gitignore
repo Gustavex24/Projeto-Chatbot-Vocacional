@@ -1,0 +1,55 @@
+# ---- PYTHON ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# ---- VENV ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- ARQUIVOS DE AMBIENTE ----
+.env
+*.env
+*secrets*
+*key*
+*token*
+*credentials*
+
+# ---- IA / LLM / MODELS ----
+*.bin
+*.model
+*.ckpt
+*.pt
+*.safetensors
+*.h5
+
+# ---- IDE / VSCode ----
+.vscode/
+.idea/
+
+# ---- CACHE / BUILD ----
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.spec
+
+# ---- JUPYTER ----
+.ipynb_checkpoints/
+
+# ---- LOGS ----
+*.log
+logs/
+
+# ---- SISTEMA OPERACIONAL ----
+Thumbs.db
+.DS_Store
+
+# ---- ONEDRIVE (EVITAR ARQUIVOS TEMPORÁRIOS) ----
+~$*

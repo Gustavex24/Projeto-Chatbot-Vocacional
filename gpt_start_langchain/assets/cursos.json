@@ -1,0 +1,93 @@
+
+[
+  {
+    "nome": "Análise e Desenvolvimento de Sistemas",
+    "nivel": "Tecnólogo",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "2-3 anos",
+    "custo": "R$ 400-800/mês",
+    "tags": ["Investigativo (I)", "Realista (R)"]
+  },
+  {
+    "nome": "Ciência da Computação",
+    "nivel": "Bacharelado",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "4 anos",
+    "custo": "R$ 500-1000/mês",
+    "tags": ["Investigativo (I)"]
+  },
+  {
+    "nome": "Design Gráfico",
+    "nivel": "Tecnólogo",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "2 anos",
+    "custo": "R$ 300-600/mês",
+    "tags": ["Artístico (A)"]
+  },
+  {
+    "nome": "Engenharia Mecânica",
+    "nivel": "Bacharelado",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "5 anos",
+    "custo": "R$ 600-1000/mês",
+    "tags": ["Realista (R)", "Investigativo (I)"]
+  },
+  {
+    "nome": "Psicologia",
+    "nivel": "Bacharelado",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "5 anos",
+    "custo": "R$ 500-800/mês",
+    "tags": ["Social (S)"]
+  },
+  {
+    "nome": "Pedagogia",
+    "nivel": "Licenciatura",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "4 anos",
+    "custo": "R$ 400-800/mês",
+    "tags": ["Social (S)"]
+  },
+  {
+    "nome": "Administração",
+    "nivel": "Bacharelado",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "4 anos",
+    "custo": "R$ 400-700/mês",
+    "tags": ["Empreendedor (E)", "Social (S)"]
+  },
+  {
+    "nome": "Marketing",
+    "nivel": "Tecnólogo",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "2 anos",
+    "custo": "R$ 400-900/mês",
+    "tags": ["Empreendedor (E)", "Artístico (A)"]
+  },
+  {
+    "nome": "Contabilidade",
+    "nivel": "Bacharelado",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "4 anos",
+    "custo": "R$ 400-700/mês",
+    "tags": ["Empreendedor (E)"]
+  },
+  {
+    "nome": "Design de Produto",
+    "nivel": "Bacharelado",
+    "modalidade": ["EAD", "Presencial", "Híbrido"],
+    "localizacao": "Brasil",
+    "duracao": "4 anos",
+    "custo": "R$ 300-900/mês",
+    "tags": ["Artístico (A)", "Realista (R)"]
+  }
+]

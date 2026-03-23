@@ -1,0 +1,16 @@
+
+Cursos de tecnologia demandam raciocínio lógico, resolução de problemas e análise de dados.
+Cursos artísticos valorizam criatividade, expressão visual e pensamento não linear.
+Cursos sociais focam em empatia, comunicação e trabalho em equipe.
+Cursos empreendedores exigem liderança, negociação e visão de negócios.
+Cursos realistas envolvem prática, ferramentas e processos concretos.
+Ciência da Computação enfatiza estruturas de dados, algoritmos, sistemas operacionais e programação.
+Análise e Desenvolvimento de Sistemas prioriza engenharia de software, testes e integração.
+Design Gráfico trabalha com tipografia, teoria das cores, branding e comunicação visual.
+Psicologia aborda comportamento humano, avaliação psicológica e intervenções.
+Administração inclui finanças, marketing, operações e estratégia empresarial.
+Marketing envolve pesquisa de mercado, funil de vendas, branding e campanhas digitais.
+Engenharia Mecânica aplica física, materiais, manufatura e projeto assistido por computador.
+Pedagogia envolve didática, metodologias de ensino e gestão escolar.
+Contabilidade foca em registros financeiros, auditoria e conformidade.
+Design de Produto integra estética, usabilidade e engenharia em soluções tangíveis.
